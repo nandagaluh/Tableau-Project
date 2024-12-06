@@ -23,4 +23,9 @@ This data provides an understanding of how compensation is distributed across de
 
 ![](https://github.com/user-attachments/assets/fffca259-5d59-4642-a6d7-62f579701806)
 
+### Numbers Company Worked For
+**Insight** : The dashboard shows how many companies employees have worked for before joining our company. For instance, we can see that a significant number of almost 100 people both female and male that our employees have worked for 2-3 companies before joining us, while 200-300 people have worked for 1 company.
+This insight can be useful for understanding employee experience levels and retention risks. Employees who have worked for multiple companies might be more prone to job-hopping, which could affect long-term retention. However, employees with diverse experience might also bring valuable skills and perspectives to the company. We could consider tailoring our retention strategies depending on their experience level.
+
+![](https://github.com/user-attachments/assets/a94c957d-72b2-4174-8e33-baa6e42cf00e)
 
